@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes, Link, Navigate } from "react-ro
 import { Card, CardContent } from "./components/ui/card";
 import { Button } from "./components/ui/button";
 import { Input } from "./components/ui/input";
-import { Select, SelectItem } from "@/components/ui/select";
+import { Select, SelectItem } from "./components/ui/select";
 
 const zones = ["ZG 1", "ZG 2", "ZG 3", "ZG 4", "ZG 5"];
 const categories = [
